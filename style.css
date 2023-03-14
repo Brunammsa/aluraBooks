@@ -3,15 +3,19 @@
 @import url("/styles/carrocel.css");
 @import url("/styles/topicos.css");
 @import url("/styles/contato.css");
-@import url(/styles/rodape.css);
+@import url("/styles/rodape.css");
 
 :root {
     --cinza: #EBECEE;
+    --cinza-secundario: #474646;
+    --cinza-terciario: #858585;
     --branco: #FFFFFF;
     --laranja: #eb9b00;
     --azul-gradiente: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --azul: #002F52;
+    --preto: #000000;
     --fonte-principal: "Poppins";
+    --fonte-secundaria: "Josefin Sans";
 }
 
 body {
